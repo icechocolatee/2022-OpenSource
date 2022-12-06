@@ -1,6 +1,6 @@
 import pygame
 
-WINDOW_NAME = "Catching fish!"
+WINDOW_NAME = "Save Animals!"
 GAME_TITLE = WINDOW_NAME
 
 SCREEN_WIDTH, SCREEN_HEIGHT = 1200, 700
